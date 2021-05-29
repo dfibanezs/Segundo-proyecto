@@ -1,0 +1,69 @@
+
+#cont1
+	{
+		height:10%;
+		width:100%;
+		background-color:skyblue;
+		border-bottom-style:hidden;
+		border-top-style:hidden;
+	}	
+	h1
+	{
+		color:black;
+		text-align:center;
+		height:60px;
+		font-size:60px;
+	}
+	header{
+		text-align:center;
+		background-color:white;
+	
+	}
+#cont3
+	{
+		height:10%;
+		width:100%;
+		background-color:skyblue;
+		border-bottom-style:hidden;
+		border-top-style:hidden;
+	}
+	nav
+	{
+		background-color:black;
+		text-align:center;
+		font-size:40;
+		float:left;
+		width:200px;
+		height:6900px;
+		color;white;
+	}
+	section
+	{
+		background-color:white;
+		text-align:center;
+		font-size:28px;
+		font-family:Monotype Corsiva;
+		width:100%;
+		height:6900px;
+		float:center;
+	}
+#cont2
+	{
+		height:10%;
+		width:99.9%;
+		background-color:skyblue;
+		border-bottom-style:hidden;
+		border-top-style:hidden;
+	}	
+	h2{
+		
+	}
+	footer
+	{
+	background-color:black;
+	text-align:center;
+	font-size:60px;
+	float:below;
+	height:400px;
+	color:white;
+	}	
